@@ -9,6 +9,7 @@ dependencies = [
     "langgraph>=1.1.10",
     "pydantic>=2.13.3",
     "python-dotenv>=1.2.2",
+    "uuid>=1.30",
 ]
 
 [project.scripts]
